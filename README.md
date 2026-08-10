@@ -23,10 +23,3 @@ The goal is to understand how QA practices need to evolve when application behav
 | Automation | Python-based AI/API test automation |
 
 ---
-
-## 🧠 Why AI Testing?
-
-Traditional software testing often relies on deterministic outputs:
-
-```text
-Input → Application → Expected Output
