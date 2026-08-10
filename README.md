@@ -21,7 +21,6 @@ The goal is to understand how QA practices need to evolve when application behav
 | AI Test Cases | Positive, negative, edge and adversarial scenarios |
 | Real-World Scenarios | Practical AI QA problems and defect analysis |
 | Automation | Python-based AI/API test automation |
-| Interview Preparation | AI QA and SDET interview scenarios |
 
 ---
 
