@@ -1,0 +1,2 @@
+# No external dependencies required for the current rule-based evaluator.
+# Python standard library modules are used.
