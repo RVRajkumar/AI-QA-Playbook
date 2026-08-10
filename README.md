@@ -1,7 +1,5 @@
 # AI-QA-Playbook
 
-> A practical Quality Engineering playbook for testing AI-powered applications.
-
 This repository documents my learning and practical work in **AI Quality Assurance**, with a focus on testing AI-powered applications beyond traditional functional testing.
 
 The goal is to understand how QA practices need to evolve when application behavior becomes probabilistic, context-aware, and driven by AI models and agents.
